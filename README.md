@@ -1,2 +1,5 @@
-# React_Quiz01
-Repository for Happy Trivia Quiz created using React
+# ReactProject: Quiz App
+Repository for Happy Trivia Quiz created using React.
+
+Demonstration: 
+https://songlinesgogo.github.io/React_Quiz01/
